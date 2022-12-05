@@ -36,3 +36,13 @@ I'm 24 years old. I’d describe myself as a goal-oriented and hardworking perso
 - Manual testing
 
 ---
+
+## Code example
+
+```const findAverage = function (nums) {
+  const number = nums.reduce((a, b) => a + b);
+  return number / nums.length;
+}
+```
+
+---
