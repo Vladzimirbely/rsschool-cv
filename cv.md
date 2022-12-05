@@ -1,4 +1,4 @@
-# Uadzimir Bely
+# Uladzimir Bely
 
 ---
 
