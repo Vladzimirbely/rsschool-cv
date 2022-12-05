@@ -59,3 +59,10 @@ I'm 24 years old. I’d describe myself as a goal-oriented and hardworking perso
 - [Ef Set](https://www.efset.org/cert/nLqibP)
 
 ---
+
+## Languages
+
+- Belorussian - Native
+- Russian - Native
+- English - B1
+- German - A2
