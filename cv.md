@@ -52,3 +52,10 @@ I'm 24 years old. I’d describe myself as a goal-oriented and hardworking perso
 - QA Engineer (2021 - present)
 
 ---
+
+## Education
+
+- Belarus State Economic University
+- [Ef Set](https://www.efset.org/cert/nLqibP)
+
+---
