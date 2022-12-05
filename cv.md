@@ -14,3 +14,9 @@
 - Discord: Uladzimir Bely (@Vladzimirbely)
 
 ---
+
+## About Me
+
+I'm 24 years old. I’d describe myself as a goal-oriented and hardworking person with good organizational skills and strategic thinking. I’m responsible person and I have excellent communication skills. I’m a hardworking and responsible person. I’m very punctual, always on time for work. I always do my best to achieve professional goals. My strength is the ability to work under pressure. I’m a team-player, I’m good at dealing with people, pay attention to details and I love challenges.
+
+---
