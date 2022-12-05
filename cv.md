@@ -46,3 +46,9 @@ I'm 24 years old. I’d describe myself as a goal-oriented and hardworking perso
 ```
 
 ---
+
+## Work
+
+- QA Engineer (2021 - present)
+
+---
