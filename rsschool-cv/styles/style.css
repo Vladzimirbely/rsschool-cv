@@ -6,6 +6,7 @@
 @import './code-example.css';
 @import './work.css';
 @import './education.css';
+@import './footer.css';
 
 html {
     height: 100%;
