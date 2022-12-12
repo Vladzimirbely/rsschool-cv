@@ -1,0 +1,14 @@
+.main__work .main__work-position .main__qa-img {
+    width: 400px;
+    height: 400px;
+    background-image: url(../img/qa.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.main__work .main__work-position {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
