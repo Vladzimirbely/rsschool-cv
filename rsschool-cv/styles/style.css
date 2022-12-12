@@ -1,6 +1,11 @@
 @import './fonts.css';
 @import './header.css';
 @import './nav.css';
+@import './about-me.css';
+@import './skills.css';
+@import './code-example.css';
+@import './work.css';
+@import './education.css';
 
 html {
     height: 100%;
