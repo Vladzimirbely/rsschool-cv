@@ -9,7 +9,7 @@
     align-items: center;
 }
 
-.header__name {
+.header__wrap .header__name {
     margin-right: 19rem;
 }
 
