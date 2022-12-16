@@ -1,0 +1,21 @@
+.footer__container {
+    display: flex;
+    justify-content: center;
+}
+
+.footer__container .footer__wrap {
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer__container .footer__wrap a {
+    width: 200px;
+    text-decoration: none;
+    color: #000000;
+}
+
+.footer__container .footer__wrap a:hover {
+    color: #1684ce;
+}

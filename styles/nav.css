@@ -1,0 +1,20 @@
+.nav__container {
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+.nav__wrap ul li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+.nav__container .nav__wrap a {
+    margin: 0 2rem;
+    text-decoration: none;
+    color: #000000;
+}
+
+.nav__container .nav__wrap a:hover {
+    border-bottom: 1px solid #000000;
+}

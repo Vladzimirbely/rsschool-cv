@@ -1,0 +1,15 @@
+.main__code .main__code-example {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1rem 0;
+    box-sizing: border-box;
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.main__code .main__code-example pre {
+    width: 300px;
+    height: 20px;
+    margin: 0 auto;
+}

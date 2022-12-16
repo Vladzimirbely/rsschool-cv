@@ -1,0 +1,62 @@
+.main__list-skills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.main__list-skills li {
+    list-style-type: none;
+}
+
+.main__list-skills div {
+    padding: 2rem 5rem;
+    box-sizing: border-box;
+}
+
+.main__list-skills .center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.main__list-skills .main__figure-size {
+    width: 80px;
+    height: 130px;
+    background-repeat: no-repeat;
+}
+
+.main__list-skills .main__html-img {
+    background-image: url(../img/html5.svg);
+}
+
+.main__list-skills .center-span {
+   text-align: center;
+}
+
+.main__list-skills .main__css-img {
+    background-image: url(../img/css3.svg);
+}
+
+.main__list-skills .main__js-img {
+    background-image: url(../img/js.svg);
+}
+
+.main__list-skills .main__sql-img {
+    background-image: url(../img/sql.svg);
+}
+
+.main__list-skills .main__scss-img {
+    background-image: url(../img/scss.svg);
+}
+
+.main__list-skills .main__sass-img {
+    background-image: url(../img/sass.svg);
+}
+
+.main__list-skills .main__webpack-img {
+    background-image: url(../img/webpack.svg);
+}
+
+.main__list-skills .main__bootstrap-img {
+    background-image: url(../img/bootstrap.svg);
+}

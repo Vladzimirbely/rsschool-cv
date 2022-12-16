@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Sourcesanspro';
+    src: url('../fonts/sourcesanspro.woff2') format('woff2'),
+         url('../fonts/sourcesanspro.woff') format('woff');
+    font-weight: normal;
+}

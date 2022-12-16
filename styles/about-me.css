@@ -1,0 +1,19 @@
+.main__container {
+    display: flex;
+    justify-content: center;
+}
+
+.main__container .main__wrap {
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.main__wrap .main__about-me {
+    text-align: justify;
+}
+
+.main__wrap .main__about-me span {
+    line-height: 2.5rem;  
+}
