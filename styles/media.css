@@ -1,0 +1,37 @@
+@media (max-width: 840px) {
+    .header__container .header__wrap {
+        display: block;
+        text-align: center;
+    }
+
+    .header__wrap .header__name,
+    .header__wrap .header__img {
+        margin: 0 0 1rem 4rem;
+    }
+
+    .header__wrap .header__contacts {
+        text-align: center;
+        margin: 0;
+    }
+
+    .nav__wrap {
+        width: 480px;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .nav__wrap ul li {
+        padding: 1rem 0;
+        box-sizing: border-box;
+    }
+}
+
+@media (max-width: 500px) {
+    .nav__wrap ul li {
+        display: flex;
+        padding: 0.2rem 0;
+        box-sizing: border-box;
+        justify-content: center;
+    }
+}

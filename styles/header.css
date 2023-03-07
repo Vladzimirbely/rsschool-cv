@@ -1,0 +1,42 @@
+.header__container {
+    display: flex;
+    justify-content: center;
+}
+
+.header__container .header__wrap {
+    width: 1000px;
+    display: flex;
+    align-items: center;
+}
+
+.header__wrap .header__name {
+    margin-right: 19rem;
+}
+
+.header__wrap .header__img img {
+    width: 200px;
+    border-radius: 50%;
+    border: 5px solid #ffffff;
+}
+
+.header__wrap .header__contacts {
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    margin-left: 7rem;
+}
+
+.header__wrap .header__contacts li {
+    list-style-type: none;
+}
+
+.header__wrap .header__contacts a {
+    padding: 0.5rem 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: #000000;
+}
+
+.header__wrap .header__contacts a:hover {
+    color: #1684ce;
+}
